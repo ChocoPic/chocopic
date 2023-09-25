@@ -1,7 +1,10 @@
 <div align=center>
   <h1> 안녕하세요!</h1>
   <p>취미로 개발하는 올해 초까진 학생이었던 사람입니다.
-  이것저것 사용해보는 걸 좋아해요. </p>
+  이것저것 사용해보는 걸 좋아해요.</br>
+  가끔 웹도 만들고, 앱도 만들고, 파이썬으로 필요한 프로그램도 만든답니다! 꿀잼!!</br>
+  요즘엔 CS 복습을 좀 해야할 것 같다는 생각을 하고 있어요. 아 저 게임도 좋아함</br>
+  </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocopic"/>
   <p>라고 하네요. 깃허브 정리를 좀 해야겠어요.</p>
 </div>
