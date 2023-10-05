@@ -1,17 +1,19 @@
 <div align=center>
-  <h1> 안녕하세요!</h1>
-  <p>취미로 개발하는 올해 초까진 학생이었던 사람입니다. 이것저것 사용해보는 걸 좋아해요.</p>
+  <h1>안녕하세요!</h1>
+  <p>이것저것 사용해보는 걸 좋아하고, 더욱 편리하게 하는 일을 좋아해요. 개발자와 사용자 모두요!</p>
   <p>
-  가끔 웹도 만들고, 앱도 만들고, 파이썬으로 필요한 프로그램도 만든답니다!꿀잼!!</br>
-  요즘엔 CS 복습을 좀 해야할 것 같다는 생각을 하고 있어요. 아 저 게임도 좋아함</br>
+  가끔 웹도 만들고, 앱도 만들고, 파이썬으로 필요한 프로그램도 만든답니다.</br>
+  요즘엔 CS 복습을 좀 해야할 것 같다는 생각을 하고 있어요.졸업하니 점점 까먹네요...</br>
+  취미는 개발, 게임, 방정리랍니다! 게임은 혼자도 좋은데 같이 하는 거 더 좋아해요. 이왕이면 PC 게임</br>
   </p>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocopic"/>
-  <p>라고 하네요. 깃허브 정리를 좀 해야겠어요.</p>
+  <p>라고 하네요. 재미로 구경합시다.</p>
 </div>
+
 <div align=center>
   <div>
-    <h4>저는 주로 이런걸로 개발해요</h4>
+    <h4>저는 주로 이런 걸로 개발해요</h4>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/>
