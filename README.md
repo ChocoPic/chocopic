@@ -1,48 +1,52 @@
 <div align=center>
-
-  ### 안녕하세요! 세상에 편리함을 전파하고 싶은 1인입니다!
-
+<hr>
+<br>
+<h3>안녕하세요! 편리함을 선사하는 일을 즐기는 사람입니다.</h3>
+<h4>신입 웹 개발자를 꿈꾸고 있어요!</h4>
+<br>
+<hr>
 </div>
-<br><br>
 
-### 저는 이런 걸 좋아해요
-- **경험하기**   :   새로운 경험하기! 제가 제일 좋아하는 일이에요. 그러다보니 이것저것 다 손댔다는게 장점이자 단점...
-- **개선하기**   :   저는 무언가 더 편리하게 하는 일을 좋아해요. 개발자와 사용자 모두요!
-- **함께하기**   :   동료나 사용자의 의견을 듣는 일을 좋아해요. 다양한 관점에서 볼 수 있어 즐거워요!
-- **정리하기**   :   취미는 방정리. 그 외에도 파일정리, 블로그정리, 코드정리, 자료정리 등등 정리를 좋아해요
-- **게임하기**   :   혼자도 좋은데 같이 하는 거 더 좋아해요. 폰은 발열이 심해서 이왕이면 PC 게임이요.
+<br>
 
-<br><br>
-<div>
-  <div>
-    <h3>저는 주로 이런 걸로 개발해요</h3>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=000000"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=ffffff"/>
-        |    
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/Java-333333?style=flat-square&logo=Java&logoColor=000000"/>
-    <img src="https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
-        |    
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff"/>
-  </div>
-</div>
-<br><br>
+### ⚡ 좋아하는 일
 
-### 현재 사용할 수 있는 서비스
-- 브라우저 메모장 _ <b>MYMEMO</b>  :  <a href='chocopic.github.io/my-memo/'>chocopic.github.io/my-memo/</a>
-- 닉네임을 만들어주는 앱 _ <b>닉네임 생성 마법사</b>  :  <a href='https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share'>Google Play 바로가기</a>
-- 키워드를 뽑아주는 앱 _ <b>뭐 그리지</b>  :  <a href='https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share'>Google Play 바로가기</a>
-- 현재 작업중인 웹사이트 _ <b>MYPLAY</b> :  <a href='chocopic.github.io/my-game-mall/'>아직배포안함!</a>
+- <b>`경험하기`</b>  새로운 경험하기! 제가 제일 좋아하는 일이에요. 그러다보니 이것저것 손댔다는게 장점(적응↑)이자 단점(얕고넓음)...<br>
+- <b>`개선하기`</b>  무엇이든 더욱 편리하게 해주는 서비스를 만드는 걸 좋아해요. 개발자와 사용자 모두요!.<br>
+- <b>`함께하기`</b>  동료나 사용자의 의견을 듣는 일을 좋아해요. 다양한 관점에서 볼 수 있어 즐거워요!.<br>
+- <b>`정리하기`</b>  취미 1번은 방정리예요. 그 외에도 파일정리, 블로그정리, 코드정리, 자료정리 등등 정리를 좋아해요.<br>
+- <b>`게임하기`</b>  취미 2번은 게임이에요. 혼자도 좋고, 같이 하면 더 좋아요! 폰이 발열이 심해서 PC 게임을 선호해요.<br
 
 <br><br>
 
-### 깃허브에 있는 프로젝트에 대해
+### ⚡ 주로 이런 걸 사용해요
+
+![js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000)
+![js](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=000000)
+![js](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=ffffff)
+![js](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
+![js](https://img.shields.io/badge/Java-333333?style=flat-square&logo=Java&logoColor=000000)
+![js](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=JavaScript&logoColor=#F7DF1E)
+<br/>
+![js](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
+![js](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=ffffff)
+![js](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)
+
+
+<br><br>
+
+### ⚡ 현재 구경할 수 있는 서비스
+- <b>` MYMEMO `</b> _ 브라우저 메모장 :  <a href='chocopic.github.io/my-memo/'>chocopic.github.io/my-memo/</a>
+- <b>` 닉네임 생성 마법사 `</b> _ 닉네임을 만들어주는 앱  :  <a href='https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share'>Google Play 바로가기</a>
+- <b>` 뭐 그리지 `</b> _ 그림 주제를 뽑아주는 앱  :  <a href='https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share'>Google Play 바로가기</a>
+- <b>` MYPLAY `</b> _ 웹사이트! 게임 데이터 들어있음:  <a href='chocopic.github.io/my-game-mall/'>아직배포안함!</a>
+
+<br><br>
+
+### ⚡ 깃허브에 있는 프로젝트에 대해
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocopic"/>
-  <p>라고 하네요. 재미로 구경합시다.</p>
+  <p>라고 하네요. 우와 내가 Java를 이렇게 많이 썼다니! 재미로 구경합시다.</p>
 </div>
 <hr>
 <!--
