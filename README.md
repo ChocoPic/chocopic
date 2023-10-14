@@ -46,7 +46,7 @@
 ### ⚡ 깃허브에 있는 프로젝트에 대해
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocopic"/>
-  <p>라고 하네요. 우와 내가 Java를 이렇게 많이 썼다니! 재미로 구경합시다.</p>
+  <p>라고 하네요. 우와 내가 Java를 이렇게 많이 썼다니! 재미있네요</p>
 </div>
 <hr>
 <!--
