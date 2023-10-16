@@ -36,10 +36,10 @@
 <br><br>
 
 ### ⚡ 현재 구경할 수 있는 서비스
-- <b>` MYMEMO `</b> _ 브라우저 메모장 :  <a href='chocopic.github.io/my-memo/'>chocopic.github.io/my-memo/</a>
-- <b>` 닉네임 생성 마법사 `</b> _ 닉네임을 만들어주는 앱  :  <a href='https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share'>Google Play 바로가기</a>
-- <b>` 뭐 그리지 `</b> _ 그림 주제를 뽑아주는 앱  :  <a href='https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share'>Google Play 바로가기</a>
-- <b>` MYPLAY `</b> _ 웹사이트! 내가 해본 게임들 기록해봄:  <a href='https://chocopic.github.io/my-game-mall/'>https://chocopic.github.io/my-game-mall/</a>
+- <b>` MYMEMO `</b> _ 브라우저 메모장 :  <a href='https://chocopic.github.io/my-memo/' target='_blank'>https://chocopic.github.io/my-memo/</a>
+- <b>` 닉네임 생성 마법사 `</b> _ 닉네임을 만들어주는 앱  :  <a href='https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>
+- <b>` 뭐 그리지 `</b> _ 그림 주제를 뽑아주는 앱  :  <a href='https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>
+- <b>` MYPLAY `</b> _ 웹사이트! 내가 해본 게임들 기록해봄:  <a href='https://chocopic.github.io/my-game-mall/' target='_blank'>https://chocopic.github.io/my-game-mall/</a>
 
 <br><br>
 
