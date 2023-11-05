@@ -39,11 +39,12 @@
 #### ⭐ 현재 구경할 수 있는 서비스
 |*service*|*info*|*link*|
 |---|---|---|
-|![js](https://img.shields.io/badge/홍대생의카공지도-ffffff?style=social) | *웹(Spring) + NLP* ||
-|![js](https://img.shields.io/badge/MYMEMO-ffffff?style=flat-squarel&logo=Github&logoColor=181717&link=https://chocopic.github.io/my-memo/link=https://chocopic.github.io/my-memo/) | *브라우저 메모장(React)* | *<a href='https://chocopic.github.io/my-memo/' target='_blank'>https://chocopic.github.io/my-memo/</a>* |
-|![js](https://img.shields.io/badge/닉네임생성마법사-ffffff?style=flat-square&logo=GooglePlay&logoColor=414141&link=https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share) | *닉네임을 만들어주는 앱(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
-|![js](https://img.shields.io/badge/뭐그리지-ffffff?style=flat-square&logo=GooglePlay&logoColor=414141&link=https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share)| *그림 주제를 뽑아주는 앱(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
-|![js](https://img.shields.io/badge/MYPLAY-ffffff?style=flat-square&logo=Github&logoColor=181717&link=https://chocopic.github.io/my-game-mall/) | *웹사이트! 내가 해본 게임들 기록해봄(React)* | *<a href='https://chocopic.github.io/my-game-mall/' target='_blank'>https://chocopic.github.io/my-game-mall/</a>*|
+|![js](https://img.shields.io/badge/MYMEMO-61DAFB?style=social&logo=Github&logoColor=000000) | *브라우저 메모장(React)* | *<a href='https://chocopic.github.io/my-memo/' target='_blank'>https://chocopic.github.io/my-memo/</a>* |
+|![js](https://img.shields.io/badge/닉네임생성마법사-3DDC84?style=social&logo=GooglePlay&logoColor=000000) | *닉네임을 만들어주는 앱(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
+|![js](https://img.shields.io/badge/뭐그리지-3DDC84?style=social&logo=GooglePlay&logoColor=000000)| *그림 주제를 뽑아주는 앱(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
+|![js](https://img.shields.io/badge/MYPLAY-61DAFB?style=social&logo=Github&logoColor=000000) | *웹사이트! 내가 해본 게임들 기록해봄(React)* | *<a href='https://chocopic.github.io/my-game-mall/' target='_blank'>https://chocopic.github.io/my-game-mall/</a>*|
+|![js](https://img.shields.io/badge/홍대생의카공지도-6DB33F?style=social&logo=AmazonEC2&logoColor=000000) | *웹(Spring) + NLP* ||
+
 <!--
 - <b>` 제목미정 `</b> _ 플러터 flame으로 게임 만드는 중 : <a href='https://chocopic.github.io/avoid_game/' target='_blank'>https://chocopic.github.io/avoid_game/</a>-->
 
