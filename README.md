@@ -51,8 +51,8 @@
 <br><br>
 
 #### ⭐ 이런 거 해봤어요
-|||
-|*language*|----|
+|*language*||
+|---|---|
 |`Java`|*SpringBoot 지도 웹사이트 <br> Android 앱*|
 |`Python`|*데이터 수집, 가공 <br> AI 모델(이미지, NLP) 학습 및 활용 <br> 이것저것 편리한 프로그램 만들기*|
 |`JavaScript`|*Node.js로 mongoDB atlas 메모장 <br> React로 localStorage 메모장, 블로그비슷한거, 쇼핑몰 만들기*|
