@@ -10,10 +10,10 @@
 #### ⭐ 좋아하는 일
 |||
 |----|----|
-|`경험하기`|*새로운 경험하기! 제가 제일 좋아하는 일이에요.<br> 그러다보니 이것저것 해본 게 장점이자 단점*|
-|`개선하기`|*무엇이든 더욱 편리하게 해주는 서비스를 만드는 걸 좋아해요. <br> 개발자와 사용자 모두요!*|
-|`함께하기`|*동료나 사용자의 의견을 듣는 일을 좋아해요. <br>다양한 관점에서 볼 수 있어 즐거워요!*|
-|`정리하기`|*취미 1 방정리. 그 외에도 파일정리, 블로그정리, 코드정리, <br> 자료정리, 게임 인벤토리 정리 등등 힐링돼서 좋아해요*|
+|`경험하기`|새로운 경험하기! 제가 제일 좋아하는 일이에요.<br> 그러다보니 이것저것 해본 게 장점이자 단점|
+|`개선하기`|무엇이든 더욱 편리하게 해주는 서비스를 만드는 걸 좋아해요. <br> 개발자와 사용자 모두요!|
+|`함께하기`|동료나 사용자의 의견을 듣는 일을 좋아해요. <br>다양한 관점에서 볼 수 있어 즐거워요!|
+|`정리하기`|취미 1 방정리. 그 외에도 파일정리, 블로그정리, 코드정리, <br> 자료정리, 게임 인벤토리 정리 등등 힐링돼서 좋아해요|
 
 <br><br>
   
@@ -39,11 +39,11 @@
 #### ⭐ 현재 구경할 수 있는 서비스
 |*service*|*info*|*link*|
 |---|---|---|
-|![js](https://img.shields.io/badge/MYMEMO-61DAFB?style=social&logo=Github&logoColor=000000) | *브라우저 메모장(React)* | *<a href='https://chocopic.github.io/my-memo/' target='_blank'>https://chocopic.github.io/my-memo/</a>* |
-|![js](https://img.shields.io/badge/닉네임생성마법사-3DDC84?style=social&logo=GooglePlay&logoColor=000000) | *닉네임을 만들어주는 앱(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
-|![js](https://img.shields.io/badge/뭐그리지-3DDC84?style=social&logo=GooglePlay&logoColor=000000)| *그림 주제를 뽑아주는 앱(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
-|![js](https://img.shields.io/badge/MYPLAY-61DAFB?style=social&logo=Github&logoColor=000000) | *웹사이트! 내가 해본 게임들 기록해봄(React)* | *<a href='https://chocopic.github.io/my-game-mall/' target='_blank'>https://chocopic.github.io/my-game-mall/</a>*|
-|![js](https://img.shields.io/badge/홍대생의카공지도-6DB33F?style=social&logo=AmazonEC2&logoColor=000000) | *웹(Spring) + NLP* ||
+|![js](https://img.shields.io/badge/MYMEMO-61DAFB?style=social&logo=Github&logoColor=000000) | 브라우저 메모장 *(React)* | *<a href='https://chocopic.github.io/my-memo/' target='_blank'>https://chocopic.github.io/my-memo/</a>* |
+|![js](https://img.shields.io/badge/닉네임생성마법사-3DDC84?style=social&logo=GooglePlay&logoColor=000000) | 닉네임을 만들어주는 앱 *(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
+|![js](https://img.shields.io/badge/뭐그리지-3DDC84?style=social&logo=GooglePlay&logoColor=000000)| 그림 주제를 뽑아주는 앱 *(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
+|![js](https://img.shields.io/badge/MYPLAY-61DAFB?style=social&logo=Github&logoColor=000000) | 웹사이트! 내가 해본 게임들 기록해봄 *(React)* | *<a href='https://chocopic.github.io/my-game-mall/' target='_blank'>https://chocopic.github.io/my-game-mall/</a>*|
+|![js](https://img.shields.io/badge/홍대생의카공지도-6DB33F?style=social&logo=AmazonEC2&logoColor=000000) | 웹(Spring) + NLP |*~~링크내림~~*|
 
 <!--
 - <b>` 제목미정 `</b> _ 플러터 flame으로 게임 만드는 중 : <a href='https://chocopic.github.io/avoid_game/' target='_blank'>https://chocopic.github.io/avoid_game/</a>-->
@@ -52,7 +52,7 @@
 
 #### ⭐ 이런 거 해봤어요
 |||
-|----|----|
+|*language*|----|
 |`Java`|*SpringBoot 지도 웹사이트 <br> Android 앱*|
 |`Python`|*데이터 수집, 가공 <br> AI 모델(이미지, NLP) 학습 및 활용 <br> 이것저것 편리한 프로그램 만들기*|
 |`JavaScript`|*Node.js로 mongoDB atlas 메모장 <br> React로 localStorage 메모장, 블로그비슷한거, 쇼핑몰 만들기*|
