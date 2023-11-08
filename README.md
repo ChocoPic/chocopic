@@ -19,19 +19,24 @@
   
 #### ⭐ 주로 이런 걸 사용해요
 ![js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=000000)
-![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff)
-![js](https://img.shields.io/badge/Android-3DDC84?style=flate&logo=Android&logoColor=ffffff)
-![js](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=000000)
-![js](https://img.shields.io/badge/Java-333333?style=flat&logo=Java&logoColor=000000)
 ![js](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E)
-<br/>
-![js](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff)
-![js](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=ffffff)
-![js](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=ffffff)
 <br/>
 ![js](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=ffffff)
 ![js](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=ffffff)
 ![js](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=ffffff)
+
+<br>
+
+#### ⭐ 가끔 이런 것도 사용해요
+![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff)
+![js](https://img.shields.io/badge/Android-3DDC84?style=flate&logo=Android&logoColor=ffffff)
+![js](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=000000)
+![js](https://img.shields.io/badge/Java-333333?style=flat&logo=Java&logoColor=000000)
+<br/>
+![js](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff)
+![js](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=ffffff)
+![js](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=ffffff)
+
 
 
 <br><br>
