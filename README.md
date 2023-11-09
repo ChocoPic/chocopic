@@ -18,8 +18,10 @@
 <br><br>
   
 #### ⭐ 주로 이런 걸 사용해요
-![js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=000000)
-![js](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E)
+![js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff)
+![js](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=JavaScript&logoColor=ffffff)
+![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff)
+![js](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
 <br/>
 ![js](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=ffffff)
 ![js](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=ffffff)
@@ -30,8 +32,8 @@
 #### ⭐ 가끔 이런 것도 사용해요
 ![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff)
 ![js](https://img.shields.io/badge/Android-3DDC84?style=flate&logo=Android&logoColor=ffffff)
-![js](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=000000)
-![js](https://img.shields.io/badge/Java-333333?style=flat&logo=Java&logoColor=000000)
+![js](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=ffffff)
+![js](https://img.shields.io/badge/Java-333333?style=flat&logo=Java&logoColor=ffffff)
 <br/>
 ![js](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff)
 ![js](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=ffffff)
@@ -48,7 +50,7 @@
 |![js](https://img.shields.io/badge/닉네임생성마법사-3DDC84?style=social&logo=GooglePlay&logoColor=000000) | 닉네임을 만들어주는 앱 *(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
 |![js](https://img.shields.io/badge/뭐그리지-3DDC84?style=social&logo=GooglePlay&logoColor=000000)| 그림 주제를 뽑아주는 앱 *(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
 |![js](https://img.shields.io/badge/MYPLAY-61DAFB?style=social&logo=Github&logoColor=000000) | 게임 기록한 웹사이트 *(React)* | *<a href='https://chocopic.github.io/my-game-mall/' target='_blank'>https://chocopic.github.io/my-game-mall/</a>*|
-|![js](https://img.shields.io/badge/홍대생의카공지도-6DB33F?style=social&logo=AmazonEC2&logoColor=000000) | 웹(Spring) + NLP |*~~링크내림~~*|
+|![js](https://img.shields.io/badge/홍대생의카공지도-6DB33F?style=social&logo=AmazonEC2&logoColor=000000) | 웹 *(spring+thymeleaf)* + NLP |*~~링크내림~~*|
 
 <!--
 플러터 flame으로 게임 만들다가 드랍. 게임은 만들기보다 하는게 재밌는 것 같다. : <a href='https://chocopic.github.io/avoid_game/' target='_blank'>https://chocopic.github.io/avoid_game/</a>
