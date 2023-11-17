@@ -10,10 +10,10 @@
 #### ⭐ 좋아하는 일
 |||
 |----|----|
-|**`경험하기`**|새로운 경험하기! 제가 제일 좋아하는 일이에요.<br> 그러다보니 이것저것 해본 게 장점이자 단점|
-|**`개선하기`**|무엇이든 더욱 편리하게 해주는 서비스를 만드는 걸 좋아해요. <br> 개발자와 사용자 모두요|
-|**`함께하기`**|동료나 사용자의 의견을 듣는 일을 좋아해요. <br>다양한 관점에서 볼 수 있어 즐거워요|
-|**`정리하기`**|취미 1 방정리. 그 외에도 파일정리, 블로그정리, 코드정리, <br> 자료정리, 게임 인벤토리 정리 등등 힐링돼서 좋아해요|
+|**`경험하기`**|새로운 경험하기! 제가 제일 좋아하는 일이에요
+|**`개선하기`**|무엇이든 더욱 편리하게 해주는 서비스를 만드는 걸 <br> 좋아해요 개발자와 사용자 모두요|
+|**`함께하기`**|동료나 사용자의 의견을 듣는 일을 좋아해요 <br>다양한 관점에서 볼 수 있어 즐거워요|
+|**`정리하기`**|취미 중 하나. 방정리, 파일정리, 코드정리, 자료정리, <br> 게임 인벤토리 정리까지 가리지 않습니다. 힐링돼서 좋아해요|
 
 <br><br>
   
@@ -47,25 +47,21 @@
 |*service*|*info*|*link*|
 |---|---|---|
 |![js](https://img.shields.io/badge/MYMEMO-61DAFB?style=social&logo=Github&logoColor=000000) | 브라우저 메모장 *(React)* | *<a href='https://chocopic.github.io/my-memo/' target='_blank'>https://chocopic.github.io/my-memo/</a>* |
+|![js](https://img.shields.io/badge/MYPLAY-61DAFB?style=social&logo=Github&logoColor=000000) | 게임 기록한 웹사이트 *(React)* | *<a href='https://chocopic.github.io/my-game-mall/' target='_blank'>https://chocopic.github.io/my-game-mall/</a>*|
 |![js](https://img.shields.io/badge/닉네임생성마법사-3DDC84?style=social&logo=GooglePlay&logoColor=000000) | 닉네임을 만들어주는 앱 *(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
 |![js](https://img.shields.io/badge/뭐그리지-3DDC84?style=social&logo=GooglePlay&logoColor=000000)| 그림 주제를 뽑아주는 앱 *(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
-|![js](https://img.shields.io/badge/MYPLAY-61DAFB?style=social&logo=Github&logoColor=000000) | 게임 기록한 웹사이트 *(React)* | *<a href='https://chocopic.github.io/my-game-mall/' target='_blank'>https://chocopic.github.io/my-game-mall/</a>*|
-|![js](https://img.shields.io/badge/홍대생의카공지도-6DB33F?style=social&logo=AmazonEC2&logoColor=000000) | 웹 *(spring+thymeleaf)* + NLP |*~~링크내림~~*|
+|![js](https://img.shields.io/badge/홍대생의카공지도-6DB33F?style=social&logo=AmazonEC2&logoColor=000000) | 웹 *(spring+thymeleaf)* + NLP |*~~비용 관계로 링크내림~~*|
 
-<!--
-플러터 flame으로 게임 만들다가 드랍. 게임은 만들기보다 하는게 재밌는 것 같다. : <a href='https://chocopic.github.io/avoid_game/' target='_blank'>https://chocopic.github.io/avoid_game/</a>
-리액트 쇼핑몰 만드는 중 : 갈길이먼데 코테공부도 해야한다~~
-지도웹앱 만들예정 : 리액트+안드로이드네이티브일듯
--->
 
+*현재 작업 중: my-snack-map (가제: 우리동네간식지도)*
 <br><br>
 
 #### ⭐ 이런 거 해봤어요
 |*language*|*project*|
 |---|---|
-|`Java`|*SpringBoot 지도 웹사이트 <br> Android 앱, java swing*|
-|`Python`|*데이터 수집, 가공 <br> AI 모델(이미지, NLP) 학습 및 사용 <br> 이것저것 편리한 프로그램*|
 |`JavaScript`|*Node.js로 mongoDB atlas 메모장 <br> React로 localStorage 메모장, 기록장, 쇼핑몰*|
+|`Java`|*SpringBoot 지도 웹사이트 <br> Android 앱, java swing*|
+|`Python`|*데이터 수집, 가공 <br> AI 모델(이미지, NLP) 학습 및 사용 <br> 이것저것 편리한 프로그램 만들어서 써먹기*|
 
 </div>
 
