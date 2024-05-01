@@ -2,7 +2,7 @@
 <br><br><br>
 
 
-### *긍정마인드와 도전정신이라는 장점을 살려 즐겁게 개발하고 있습니다* 
+### *취미로 개발하고 있습니다* 
 ( •̀ ω •́ )✧
 
 <br><br><br><br><br>
@@ -17,7 +17,7 @@
 
 <br><br>
   
-#### ⭐ 주로 이런 걸 사용해요
+#### ⭐ 이런 걸 사용해요
 ![js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff)
 ![js](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=JavaScript&logoColor=ffffff)
 ![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff)
@@ -26,19 +26,11 @@
 ![js](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=ffffff)
 ![js](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=ffffff)
 ![js](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=ffffff)
-
-<br>
-
-#### ⭐ 가끔 이런 것도 사용해요
+<br/>
 ![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff)
 ![js](https://img.shields.io/badge/Android-3DDC84?style=flate&logo=Android&logoColor=ffffff)
-![js](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=ffffff)
 ![js](https://img.shields.io/badge/Java-333333?style=flat&logo=Java&logoColor=ffffff)
 <br/>
-![js](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff)
-![js](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=ffffff)
-![js](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=ffffff)
-
 
 
 <br><br>
@@ -50,18 +42,16 @@
 |![js](https://img.shields.io/badge/MYPLAY-61DAFB?style=social&logo=Github&logoColor=000000) | 게임 기록한 웹사이트 *(React)* | *<a href='https://chocopic.github.io/my-game-mall/' target='_blank'>https://chocopic.github.io/my-game-mall/</a>*|
 |![js](https://img.shields.io/badge/닉네임생성마법사-3DDC84?style=social&logo=GooglePlay&logoColor=000000) | 닉네임을 만들어주는 앱 *(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
 |![js](https://img.shields.io/badge/뭐그리지-3DDC84?style=social&logo=GooglePlay&logoColor=000000)| 그림 주제를 뽑아주는 앱 *(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
+|![js](https://img.shields.io/badge/글자수세기-3DDC84?style=social&logo=GooglePlay&logoColor=000000)| 글자 수 세는 앱 *(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.nick.wordcounter' target='_blank'>Google Play 바로가기</a>*|
+|![js](https://img.shields.io/badge/글자수세기-61DAFB?style=social&logo=Github&logoColor=000000) | 글자 수 세는 앱의 웹 버전 *(HTML, CSS, JS)* | *<a href='https://chocopic.github.io/word_counter_new/' target='_blank'>https://chocopic.github.io/my-memo/</a>* |
 |![js](https://img.shields.io/badge/홍대생의카공지도-6DB33F?style=social&logo=AmazonEC2&logoColor=000000) | 웹 *(spring+thymeleaf)* + NLP |*~~비용 관계로 링크내림~~*|
 
-
-*현재 작업 중: my-snack-map (가제: 우리동네간식지도)*
 <br><br>
 
-#### ⭐ 이런 거 해봤어요
+#### ⭐ 이런 것도 해요
 |*language*|*project*|
 |---|---|
-|`JavaScript`|*Node.js로 mongoDB atlas 메모장 <br> React로 localStorage 메모장, 기록장, 쇼핑몰*|
-|`Java`|*SpringBoot 지도 웹사이트 <br> Android 앱, java swing*|
-|`Python`|*데이터 수집, 가공 <br> AI 모델(이미지, NLP) 학습 및 사용 <br> 이것저것 편리한 프로그램 만들어서 써먹기*|
+|`Python`|데이터 가공 및 분석 (+SQL, excel, Tableau)<br>AI 모델링 (tensorflow)<br>이것저것 편리한 프로그램 개발 (라이브러리 최고!)|
 
 </div>
 
