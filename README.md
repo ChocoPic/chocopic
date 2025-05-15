@@ -42,7 +42,7 @@
 |![js](https://img.shields.io/badge/MYPLAY-61DAFB?style=social&logo=Github&logoColor=000000) | 게임 기록한 웹사이트 *(React)* | *<a href='https://chocopic.github.io/my-game-mall/' target='_blank'>https://chocopic.github.io/my-game-mall/</a>*|
 |![js](https://img.shields.io/badge/닉네임생성마법사-3DDC84?style=social&logo=GooglePlay&logoColor=000000) | 닉네임을 만들어주는 앱 *(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.nick.nicknamecreator&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
 |![js](https://img.shields.io/badge/뭐그리지-3DDC84?style=social&logo=GooglePlay&logoColor=000000)| 그림 주제를 뽑아주는 앱 *(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.drawing.keywordpick&pcampaignid=web_share' target='_blank'>Google Play 바로가기</a>*|
-|![js](https://img.shields.io/badge/글자수세기-3DDC84?style=social&logo=GooglePlay&logoColor=000000)| 글자 수 세는 앱 *(Java)* | *<a href='https://play.google.com/store/apps/details?id=com.nick.wordcounter' target='_blank'>Google Play 바로가기</a>*|
+|![js](https://img.shields.io/badge/글자수세기-3DDC84?style=social&logo=GooglePlay&logoColor=000000)| 글자 수 세는 앱 *(Java + HTML,CSS,JS)* | *<a href='https://play.google.com/store/apps/details?id=com.nick.wordcounter' target='_blank'>Google Play 바로가기</a>*|
 |![js](https://img.shields.io/badge/글자수세기-61DAFB?style=social&logo=Github&logoColor=000000) | 글자 수 세는 앱의 웹 버전 *(HTML, CSS, JS)* | *<a href='https://chocopic.github.io/word_counter_new/' target='_blank'>https://chocopic.github.io/word_counter_new/</a>* |
 |![js](https://img.shields.io/badge/홍대생의카공지도-6DB33F?style=social&logo=AmazonEC2&logoColor=000000) | 웹 *(spring+thymeleaf)* + NLP |*~~비용 관계로 링크내림~~*|
 
